@@ -1,0 +1,8 @@
+PROGRAMA contador
+VarContador = 0
+REPITE 10 VECES
+VarContador = VarContador + 1
+    IMPRIME "Contador: "
+    IMPRIME VarContador
+FINREP
+FINPROG
